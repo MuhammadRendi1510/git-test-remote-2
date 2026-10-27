@@ -8,5 +8,10 @@
 <body>
     <h1>testing remote 2</h1>
     <p>paragraf test for remote 2</p>
+    <ul>
+        <li>satu list</li>
+        <li>dua list</li>
+        <li>tiga list</li>
+    </ul>
 </body>
 </html>
